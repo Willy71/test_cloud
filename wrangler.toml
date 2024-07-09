@@ -2,6 +2,7 @@ name = ""
 account_id = ""
 workers_dev = true
 route = { pattern = "", zone_id = ""}
+pages_build_output_dir = "./home"
 main = "./app.py"
 compatibility_date = "2022-06-03"
 
